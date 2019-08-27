@@ -1,1 +1,1 @@
-# sb-mongo-crud
+# spring boot mongo learning and reference
