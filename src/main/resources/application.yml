@@ -1,0 +1,14 @@
+logging:
+  level:
+    root: debug
+    
+    
+server:
+  servlet:
+    context-path: /wrestle-mania    
+    
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://sampleUser:samplePassword@cluster0-8vfbp.mongodb.net/test?retryWrites=true&w=majority
