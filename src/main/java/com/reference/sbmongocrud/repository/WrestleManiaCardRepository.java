@@ -6,6 +6,6 @@ import org.springframework.stereotype.Repository;
 import com.reference.sbmongocrud.model.WrestlerCard;
 
 @Repository
-public interface WManiaCardRepository extends MongoRepository<WrestlerCard, String> {
+public interface WrestleManiaCardRepository extends MongoRepository<WrestlerCard, String> {
 
 }
